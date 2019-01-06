@@ -28,6 +28,7 @@ sass:
 # Comments
 disqus_shortname:   taylantatli
 
+#ahahahah
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -62,6 +63,7 @@ steam:              username
 #xmpp:              username@server.com
 #hackernews:        username
 
+
 # Gems
 gems:
   - jekyll-mentions
@@ -71,7 +73,7 @@ gems:
 
 
 jekyll-mentions:
-    base_url: https://wxuan.tech/
+   base_url: https://xucode2016.github.io/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
