@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    /* background-color: lightcoral; */
+    background: #faf3e6;
+    
+}
+@font-face{
+    font-family:refrigerator-deluxe;
+    src:url(https://use.typekit.net/af/1fabf0/0000000000000000000173be/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/1fabf0/0000000000000000000173be/27/d?subset_id=2&fvd=n7&v=3) format("woff"),
+        url(https://use.typekit.net/af/1fabf0/0000000000000000000173be/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:ltc-bodoni-175;src:url(https://use.typekit.net/af/3c382e/000000000000000000010b17/27/l?subset_id=2&fvd=i4&v=3) format("woff2"),
+        url(https://use.typekit.net/af/3c382e/000000000000000000010b17/27/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/3c382e/000000000000000000010b17/27/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;
+    }
+@font-face{
+    font-family:ltc-bodoni-175;
+    src:url(https://use.typekit.net/af/dcde70/000000000000000000010b16/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),
+    url(https://use.typekit.net/af/dcde70/000000000000000000010b16/27/d?subset_id=2&fvd=n4&v=3) format("woff"),
+        url(https://use.typekit.net/af/dcde70/000000000000000000010b16/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+    font-weight:400;font-style:normal;
+}
+@font-face{
+    font-family:french-clarendon-ornamented;
+    src:url(https://use.typekit.net/af/630809/000000000000000000011966/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),
+    url(https://use.typekit.net/af/630809/000000000000000000011966/27/d?subset_id=2&fvd=n4&v=3) format("woff"),
+        url(https://use.typekit.net/af/630809/000000000000000000011966/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+        font-weight:400;font-style:normal;}@font-face{font-family:grecian-light-face;
+            src:url(https://use.typekit.net/af/a07177/0000000000000000000121e9/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),
+        url(https://use.typekit.net/af/a07177/0000000000000000000121e9/27/d?subset_id=2&fvd=n4&v=3) format("woff"),
+        url(https://use.typekit.net/af/a07177/0000000000000000000121e9/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+        font-weight:400;
+        font-style:normal;
+    }
+h1 {
+    text-align: center;
+    color: #272625;
+    font-family: ltc-bodoni-175;
+    font-size: 4em;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 0.05em;
+    /* text-transform: capitalize; */
+    margin: 20% 5%;
+    /* font-style:inherit; */
+}
+
+
+/* .text {
+    margin-top: 235px;
+
+} */
